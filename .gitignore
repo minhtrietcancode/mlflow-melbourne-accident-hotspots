@@ -1,2 +1,7 @@
 # ignore the file i use to test some random stuff
 test.py
+
+# MLflow
+mlruns/
+mlartifacts/
+*.db
